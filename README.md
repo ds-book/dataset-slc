@@ -1,4 +1,6 @@
 # Информация о наборе данных
+## Ссылка для скачивания
+https://github.com/ds-book/dataset-slc/blob/main/survey%20lung%20cancer.csv
 
 ## Описание датасета
 В файле **survey lung cancer.csv** находится таблица с признаками потенциирующими развитие рака легких.
